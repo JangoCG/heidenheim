@@ -112,8 +112,8 @@ Please read our contributing guidelines before submitting pull requests.
 
 ## License
 
-[Add license information here]
+MIT
 
 ## Contact
 
-For questions or support, please contact the Heidenheim Smart City team.
+Just open a issue
