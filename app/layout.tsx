@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Heidenheim Dashboard",
-  description: "A modern dashboard with theme switching",
+  description: "A modern dashboard",
     generator: 'v0.dev'
 }
 
